@@ -1,0 +1,41 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/ANGEL ZAMUDIO/Documents/UNI 5TO/POO/practica11extra/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/ANGEL ZAMUDIO/Documents/UNI 5TO/POO/practica11extra/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'practica11extra 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/ANGEL ZAMUDIO/Documents/UNI 5TO/POO/practica11extra/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'practica11extra 1.0-SNAPSHOT API'
+com.mycompany.practica11extra
+'C:/Users/ANGEL ZAMUDIO/Documents/UNI 5TO/POO/practica11extra/src/main/java/com/mycompany/practica11extra/NewMain.java'
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\practica11extra\src\main\java = 1637817572030
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\practica11extra\target\site\apidocs\allclasses-frame.html = 1637823189867
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\practica11extra\target\site\apidocs\allclasses-noframe.html = 1637823189869
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\practica11extra\target\site\apidocs\constant-values.html = 1637823189813
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\practica11extra\target\site\apidocs\deprecated-list.html = 1637823189864
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\practica11extra\target\site\apidocs\help-doc.html = 1637823189880
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\practica11extra\target\site\apidocs\index-all.html = 1637823189860
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\practica11extra\target\site\apidocs\index.html = 1637823189872
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\practica11extra\target\site\apidocs\overview-tree.html = 1637823189857
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\practica11extra\target\site\apidocs\package-list = 1637823189784
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\practica11extra\target\site\apidocs\script.js = 1637823189886
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\practica11extra\target\site\apidocs\stylesheet.css = 1637823189884
